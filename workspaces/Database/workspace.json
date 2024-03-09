@@ -2,7 +2,7 @@
   "friendly_name": "Database Applications",
   "image_src": "database.png",
   "description": "Kasm Workspace for Dbeaver PgAdmin4 and Sublime Merge for Version Control",
-  "name": "steinily/database_kasm:1.15 ",
+  "name": "steinily/database_kasm ",
   "cores": 2,
   "memory": 2768,
   "gpu_count": 0,
