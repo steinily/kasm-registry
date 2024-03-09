@@ -1,8 +1,9 @@
 {
   "friendly_name": "Database Applications",
+  "docker_registry": "https://index.docker.io/v1/",
   "image_src": "database.png",
   "description": "Kasm Workspace for Dbeaver PgAdmin4 and Sublime Merge for Version Control",
-  "name": "steinily/database_kasm ",
+  "name": "steinily/database_kasm",
   "cores": 2,
   "memory": 2768,
   "gpu_count": 0,
