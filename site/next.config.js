@@ -6,7 +6,7 @@ const nextConfig = {
     description: 'The official store for Kasm supported workspaces.',
     icon: '/img/logo.svg',
     listUrl: 'https://steinily.github.io/',
-    contactUrl: 'https://kasmweb.com/support',
+    contactUrl: 'https://github.com/steinily/kasm-registry/issues',
   },
   reactStrictMode: true,
   swcMinify: true,
